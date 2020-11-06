@@ -67,15 +67,15 @@ p{
 
 /*****************Botones Redes Sociales******************/
 .bottom-container a.linkedin{
-    background: url(/images/ig-socials4.png) 0 195px;
+    background: url(./images/ig-socials4.png) 0 195px;
     background-size: 66px;
 }
 .bottom-container a.github{
-    background: url(/images/ig-socials4.png) 0 130px;
+    background: url(./images/ig-socials4.png) 0 130px;
     background-size: 66px;
 }
 .bottom-container a.twitter{
-    background: url(/images/ig-socials4.png) 0 65px;
+    background: url(./images/ig-socials4.png) 0 65px;
     background-size: 66px;
 }
 .bottom-container a{
