@@ -1,0 +1,205 @@
+/*****************TAG SELECTOR******************/
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E
+}
+
+a{
+    color: #66bfbf;
+    text-decoration: none;
+    outline: 0;
+}
+#text-1{
+    line-height: 2px;
+    text-align: center;
+    color: #66bfbf;
+    font-weight: normal;
+}
+
+ul li{
+    text-align: justify;
+    margin: 0 auto;
+    
+}
+
+h1{
+    font-size: 562.5%;
+    width: 40%;
+    margin: 0 auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #66bfbf;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66bfbf;
+}
+h3{
+    margin: 0 auto;
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+img{
+    top: 200px;    
+}
+/************Images***********/
+.profile-img{
+    width: 200px;
+    height: 200px;
+}
+.pc{
+    width: 25%;
+}
+.hot{
+    width: 25%;
+}
+.send-mail{
+    width: 25%;
+}
+/***************************/
+p{
+    margin: 0 10%;
+    text-align: justify;
+}
+
+/*****************Botones Redes Sociales******************/
+.bottom-container a.linkedin{
+    background: url(/images/ig-socials4.png) 0 195px;
+    background-size: 66px;
+}
+.bottom-container a.github{
+    background: url(/images/ig-socials4.png) 0 130px;
+    background-size: 66px;
+}
+.bottom-container a.twitter{
+    background: url(/images/ig-socials4.png) 0 65px;
+    background-size: 66px;
+}
+.bottom-container a{
+    height: 65px;
+    width: 65px;
+    display: inline-block;
+    border-radius: 33px;
+    transition: .3s;
+    margin: 5px;
+}
+.bottom-container{
+    background-color: #11999E;
+    
+}
+/*******************DIV***************************/
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+}
+.contact-me{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+}
+.bottom-container{
+    height: auto;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+}
+/*************************************************/
+
+.middle-container{
+    width: 100%;
+    height: 100%;
+
+}
+.top-container{
+    padding-top: 100px;
+    background-color: #fff;
+}
+/*********PRUEBA DE SPAN***********/
+.prog{
+    /*text-decoration: underline;*/
+    text-decoration: none;
+}
+/*********************************/
+.bottom-cloud{
+    position: relative;
+    top: -300px;
+    left: 10px;
+}
+.top-cloud{
+   position: relative;
+   left: 300px;
+   top: 0px; 
+}
+.mountain{
+    position: relative;
+    right: 100px;
+    top: -40px;
+}
+.send-mail{
+    float: left;
+}
+#htouch{
+    margin:5% 0 0 30%;
+}
+#ptouch{
+    margin:5% 0 0 30%;
+}
+#legal{
+    text-align: center;
+    margin-top: 40px;
+    color: white;
+}
+
+.BUTTON_ABL {
+    
+    background: #66BFBF;
+    background-image: -webkit-linear-gradient(top, #66BFBF, #11999E);
+    background-image: -moz-linear-gradient(top, #66BFBF, #11999E);
+    background-image: -ms-linear-gradient(top, #66BFBF, #11999E);
+    background-image: -o-linear-gradient(top, #66BFBF, #11999E);
+    background-image: -webkit-gradient(to bottom, #66BFBF, #11999E);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: Open 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 5px 40px;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .BUTTON_ABL:hover {
+    border: solid #337FED 1px;
+    background: #1E62D0;
+    background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
+ hr{
+     border: none;
+ }
+ #first-p{
+     margin: 0 30%;
+     line-height: 2;
+ }
+ #second-p{
+     margin: 0 0;
+ }
